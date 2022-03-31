@@ -1,0 +1,8 @@
+Animal Name,Animal Quantity,Legs,Price
+Horse,5,4,"$10,000"
+Cat,10,4,"$1,000"
+Dog,2,4,$100
+Lion,1,4,"$100,000"
+Monkey,2,2,"$1,500"
+Tiger,3,4,"$150,000"
+Snake,1,0,"$20,000"
