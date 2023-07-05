@@ -21,7 +21,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "# Introduction to Convolutional Neural Networks and Computer Vision with tensorflow"
+        "# Food Classification Model"
       ],
       "metadata": {
         "id": "JNifClh0FutU"
